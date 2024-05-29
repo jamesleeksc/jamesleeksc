@@ -1,51 +1,84 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20James%20Lee!%20👋&fontSize=60&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20James%20Lee!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
 
-![divide](https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png)
-# 🎉​ About Me 🎉​
-I'm a passionate Blockchain Developer and Project Manager based in Singapore. I love working on innovative projects and leading teams to success.
+![divider1](./assests/images/divider1.png)
 
-- 💼 Current Role: Blockchain Developer and Project Manager
-- 👨‍💼 Team Leader: I manage a dedicated and talented team of developers
-- 🌱 Currently Learning: Advanced smart contract development and decentralized finance (DeFi)
-- 💬 Ask me about: Blockchain, Project Management, and Full-stack Development
-- 📫 How to reach me: james.lee@example.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I’ve traveled to over 30 countries and love hiking in my free time!
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> -->
 
-# Skills
-<div align='center'>
+<h1>
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /> About Me
+</h1>
+​
+<div>
+  <p>
+    I'm a passionate Blockchain Developer and Project Manager based in Singapore. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
+  </p>
+  
+  <img alt='coding' align='right' height='300' src="./assests/images/coding.gif" />
 
-| Languages | Frameworks and Libraries | Databases |
-|----------|----------|----------|
-| [![language](https://skillicons.dev/icons?i=ts,js,solidity,cpp,cs,py,rust,ruby&perline=4)](https://skillicons.dev) | [![framework](https://skillicons.dev/icons?i=nestjs,express,laravel,react,vue,nextjs,nuxtjs,redux,graphql,selenium&perline=5)](https://skillicons.dev) | [![database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=2)](https://skillicons.dev) |
+  <ul>
+  <li>💼 <strong>Current Role</strong>: Blockchain Developer and Project Manager with a proven track record of delivering high-quality solutions.</li>
+  <li>👨‍💼 <strong>Team Leadership</strong>: Leading a talented team of developers, fostering collaboration and innovation.</li>
+  <li>🌱 <strong>Currently Learning</strong>: Advanced smart contract development and decentralized finance (DeFi).</li>
+  <li>💬 <strong>Expertise</strong>: Blockchain, Project Management, Full-stack Development. Open to new ideas and strategic insights.</li>
+  <li>📫 <strong>Contact</strong>: <a href="mailto:jameslee.ksc@example.com">jameslee.ksc@example.com</a></li>
+  <li>😄 <strong>Pronouns</strong>: he/him</li>
+  <li>⚡ <strong>Fun Fact</strong>: Traveled to over 30 countries and enjoy hiking.</li>
+</ul>
 
 </div>
 
-# Projects
-## [Project Name](https://github.com/yourusername/projectname)
-**Description**: A brief description of your project and what it does.
-- Key Features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
 
-## [Another Project](https://github.com/yourusername/anotherproject)
-**Description**: A brief description of another project and its purpose.
-- Key Technologies: Technology 1, Technology 2, Technology 3
+![divider2](./assests/images/divider2.png)
 
-# Contributions
-- [Open Source Project 1](https://github.com/opensource/project1): Description of your contributions
-- [Open Source Project 2](https://github.com/opensource/project2): Description of your contributions
+<h1>
+  <img src="./assests/images/code.gif" width ="30"> Skills
+</h1>
+<div align=''>
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Frameworks and Libraries</th>
+      <th>Databases</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p align="center">
+            <img height='132' alt='language' src="https://skillicons.dev/icons?i=js,ts,nodejs,solidity,cpp,cs,php,py,rust,ruby&perline=5" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img height='132' alt='framework' src="https://skillicons.dev/icons?i=nestjs,express,laravel,django,react,vue,nextjs,nuxtjs,redux,graphql&perline=5" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img height='132' alt='database' src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=2" />
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-# Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website](https://yourwebsite.com)
+![divider2](./assests/images/divider2.png)
 
-# GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> GitHub Stats
+</h1>
 
-# Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<div align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=jamesleeksc&theme=onestar&no-frame=true&column=4&row=2"  height='420' alt="@John's trophy stats"/>
 
-Thank you for visiting my profile! 😊
+<img height='200' alt='total' src="https://github-readme-stats.vercel.app/api?username=jamesleeksc&show_icons=true&theme=gotham" />
+<img height='200' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesleeksc&layout=compact&theme=gotham" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jamesleeksc&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" height='295' alt="activity graph">
+</div>
+
+![divider1](./assests/images/divider1.png)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting%20James%20Lee's%20profile!%20🤗​&fontSize=30&animation=fadeIn&fontAlignY=70)
