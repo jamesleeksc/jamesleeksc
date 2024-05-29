@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20James%20Lee!%20👋&fontSize=60&animation=fadeIn&fontAlignY=50)
 
-![divider1](./assests/images/divider1.png)
+![divider1](https://github.com/jamesleeksc/jamesleeksc/blob/main/assests/images/divider1.png)
 
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> -->
 
@@ -13,7 +13,7 @@
     I'm a passionate Blockchain Developer and Project Manager based in Singapore. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
   </p>
   
-  <img alt='coding' align='right' height='300' src="./assests/images/coding.gif" />
+  <img alt='coding' align='right' height='300' src="https://github.com/jamesleeksc/jamesleeksc/blob/main/assests/images/coding.gif" />
 
   <ul>
   <li>💼 <strong>Current Role</strong>: Blockchain Developer and Project Manager with a proven track record of delivering high-quality solutions.</li>
@@ -28,10 +28,10 @@
 </div>
 
 
-![divider2](./assests/images/divider2.png)
+![divider2](https://github.com/jamesleeksc/jamesleeksc/blob/main/assests/images/divider2.png)
 
 <h1>
-  <img src="./assests/images/code.gif" width ="30"> Skills
+  <img src="https://github.com/jamesleeksc/jamesleeksc/blob/main/assests/images/code.gif" width ="30"> Skills
 </h1>
 <div align=''>
 <table>
@@ -64,7 +64,7 @@
 </table>
 </div>
 
-![divider2](./assests/images/divider2.png)
+![divider2](https://github.com/jamesleeksc/jamesleeksc/blob/main/assests/images/divider2.png)
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" /> GitHub Stats
@@ -79,6 +79,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamesleeksc&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" height='295' alt="activity graph">
 </div>
 
-![divider1](./assests/images/divider1.png)
+![divider1](https://github.com/jamesleeksc/jamesleeksc/blob/main/assests/images/divider1.png)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20you%20for%20visiting%20James%20Lee's%20profile!%20🤗​&fontSize=30&animation=fadeIn&fontAlignY=70)
